@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Devanshi 👋
 
-<!--
-**DevanshiMishra19/DevanshiMishra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year B.Tech Chemical Engineering @ MANIT Bhopal (2025–2029)
 
-Here are some ideas to get you started:
+🔬 Building at the intersection of **process engineering** and **computational skills** — combining core ChemE fundamentals with programming, data analysis, and simulation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- 📊 Solving Striver's A2Z DSA Sheet in C++ — currently on hashing & problem-solving fundamentals
+- 🧪 Learning Aspen Plus for process simulation (distillation column project — ethanol-water system)
+- 🐍 Python for data analysis (pandas, matplotlib)
+- 📈 Preparing for GATE 2029, targeting PSU roles
+
+## Skills
+`C++` `Python` `MATLAB` `Aspen Plus` `Process Simulation` `Data Analysis`
+
+## Currently exploring
+Process engineering + data-driven approaches to chemical process optimization
+
+## Connect
+- 💼 [LinkedIn](www.linkedin.com/in/devanshi-m-06799130b)
+- 📫 Reach me at: 25117011167@stu.manit.ac.in
+
+---
+⭐️ From Devanshi Mishra.(https://github.com/DevanshiMishra19)
+
